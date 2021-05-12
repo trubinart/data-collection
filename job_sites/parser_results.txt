@@ -1,11 +1,14 @@
 Было обработано 2 страниц 
 Всего вакансий: 80
 --------------------
-https://hh.ru | Продуктовый UX/UI дизайнер (Middle/Senior) | 180000-230000-руб
-https://hh.ru/vacancy/44377709?query=web
---------------------
 https://hh.ru | Senior HTML-верстальщик | None-None-None
 https://hh.ru/vacancy/44168392?query=web
+--------------------
+https://hh.ru | PHP разработчик | None-None-None
+https://hh.ru/vacancy/42307999?query=web
+--------------------
+https://hh.ru | Продуктовый UX/UI дизайнер (Middle/Senior) | 180000-230000-руб
+https://hh.ru/vacancy/44377709?query=web
 --------------------
 https://hh.ru | Middle PHP Developer (Bitrix) | None-None-None
 https://hh.ru/vacancy/44412921?query=web
@@ -16,113 +19,128 @@ https://hh.ru/vacancy/44399895?query=web
 https://hh.ru | Web-программист (Angular 2+) | 200000-None-руб
 https://hh.ru/vacancy/43895209?query=web
 --------------------
-https://hh.ru | Специалист по PHP со знанием WordPress | 370000-400000-руб
-https://hh.ru/vacancy/44361910?query=web
+https://hh.ru | Web-програмист (Удаленно - PHP, JS, YII) | 100000-None-руб
+https://hh.ru/vacancy/43661730?query=web
 --------------------
-https://hh.ru | Диджитал-дизайнер (web) | 80000-100000-руб
-https://hh.ru/vacancy/44293028?query=web
+https://hh.ru | Middle web-разработчик | 160000-None-руб
+https://hh.ru/vacancy/44277974?query=web
 --------------------
-https://hh.ru | PHP developer (Symfony) | 240000-400000-руб
-https://hh.ru/vacancy/44166268?query=web
+https://hh.ru | Web-Программист PHP (Web разработка) | 130000-149500-руб
+https://hh.ru/vacancy/42900117?query=web
 --------------------
-https://hh.ru | Web-дизайнер UX-UI | None-100000-руб
-https://hh.ru/vacancy/44217658?query=web
+https://hh.ru | Web-разработчик Bitrix | 150000-None-руб
+https://hh.ru/vacancy/44120677?query=web
 --------------------
-https://hh.ru | Front-end разработчик / верстальщик | 80000-120000-руб
-https://hh.ru/vacancy/44302388?query=web
---------------------
-https://hh.ru | Senior Web Developer (backend) | 200000-250000-руб
-https://hh.ru/vacancy/43659515?query=web
---------------------
-https://hh.ru | Младший дизайнер / Junior Designer (Web & Graphic) | 60000-None-руб
-https://hh.ru/vacancy/44118931?query=web
---------------------
-https://hh.ru | Web-программист | 100000-140000-руб
-https://hh.ru/vacancy/44284215?query=web
---------------------
-https://hh.ru | Full-Stack Web Developer (Symfony / Laravel), Remote | 2000-4000-EUR
-https://hh.ru/vacancy/43688269?query=web
+https://hh.ru | Lead of the Web team | 5000-None-USD
+https://hh.ru/vacancy/43674681?query=web
 --------------------
 https://hh.ru | Web-разработчик | 120000-None-руб
 https://hh.ru/vacancy/43695205?query=web
 --------------------
-https://hh.ru | Web-программист Wordpress+PHP | 90000-None-руб
-https://hh.ru/vacancy/44285879?query=web
+https://hh.ru | Middle веб-дизайнер | 50000-None-руб
+https://hh.ru/vacancy/44457113?query=web
 --------------------
-https://hh.ru | Web-дизайнер | 70000-None-руб
-https://hh.ru/vacancy/44435440?query=web
+https://hh.ru | PHP developer (Symfony) | 240000-400000-руб
+https://hh.ru/vacancy/44166268?query=web
+--------------------
+https://hh.ru | Fullstack web разработчик | 140000-180000-руб
+https://hh.ru/vacancy/44468662?query=web
+--------------------
+https://hh.ru | Senior Web Developer (backend) | 200000-250000-руб
+https://hh.ru/vacancy/43659515?query=web
+--------------------
+https://hh.ru | Middle / Senior PHP-backend разработчик (Highload) | 230000-None-руб
+https://hh.ru/vacancy/44453406?query=web
+--------------------
+https://hh.ru | Верстальщик / Web-разработчик | None-None-None
+https://hh.ru/vacancy/43756285?query=web
 --------------------
 https://hh.ru | UX/UI дизайнер (Middle/Senior) | 150000-300000-руб
 https://hh.ru/vacancy/44383123?query=web
 --------------------
-https://hh.ru | Web-програмист (Удаленно - PHP, JS, YII) | 100000-None-руб
-https://hh.ru/vacancy/43661730?query=web
+https://hh.ru | Младший дизайнер / Junior Designer (Web & Graphic) | 60000-None-руб
+https://hh.ru/vacancy/44118931?query=web
 --------------------
-https://hh.ru | Младший Web-разработчик Asp.net (Junior Web Developer) | 50000-None-руб
-https://hh.ru/vacancy/43713068?query=web
---------------------
-https://hh.ru | Front-end разработчик / HTML верстальщик | 70000-None-руб
-https://hh.ru/vacancy/44389917?query=web
---------------------
-https://hh.ru | Web-дизайнер | 75000-None-руб
-https://hh.ru/vacancy/43810201?query=web
---------------------
-https://hh.ru | Frontend-разработчик (Middle) | 120000-None-руб
-https://hh.ru/vacancy/43620482?query=web
---------------------
-https://hh.ru | Junior Веб (Web) разработчик | 50000-90000-руб
-https://hh.ru/vacancy/44404971?query=web
---------------------
-https://hh.ru | Веб-дизайнер | 72000-100000-руб
-https://hh.ru/vacancy/44276399?query=web
---------------------
-https://hh.ru | Веб-дизайнер UX-UI | 130000-None-руб
-https://hh.ru/vacancy/44005989?query=web
---------------------
-https://hh.ru | Web-программист Битрикс | 120000-180000-руб
-https://hh.ru/vacancy/44406385?query=web
---------------------
-https://hh.ru | Веб-дизайнер | 70000-100000-руб
-https://hh.ru/vacancy/44040598?query=web
---------------------
-https://hh.ru | Web-разработчик (React, Python) | 800-3000-USD
-https://hh.ru/vacancy/42631058?query=web
---------------------
-https://hh.ru | Web-разработчик | 80000-120000-руб
-https://hh.ru/vacancy/44203494?query=web
---------------------
-https://hh.ru | Ведущий Web дизайнер | 90000-None-руб
-https://hh.ru/vacancy/44413668?query=web
---------------------
-https://hh.ru | Web designer | 80000-None-руб
-https://hh.ru/vacancy/43925768?query=web
+https://hh.ru | Дизайнер (Пакет Adobe + Web на Tilda) | 60000-None-руб
+https://hh.ru/vacancy/44369306?query=web
 --------------------
 https://hh.ru | Web-программист | None-None-None
 https://hh.ru/vacancy/44321545?query=web
 --------------------
-https://hh.ru | Middle Web Designer | None-160000-руб
-https://hh.ru/vacancy/43977109?query=web
+https://hh.ru | Web-разработчик (Python) | None-None-None
+https://hh.ru/vacancy/42695058?query=web
 --------------------
-https://hh.ru | Веб-программист | 50000-70000-руб
-https://hh.ru/vacancy/44002896?query=web
+https://hh.ru | Web-designer (Веб-дизайнер UI/UX) в веб-студию | 55000-80000-руб
+https://hh.ru/vacancy/42489763?query=web
 --------------------
-https://hh.ru | Frontend-разработчик (удалённо) | 50000-None-руб
-https://hh.ru/vacancy/44087037?query=web
+https://hh.ru | Web-дизайнер | 60000-70000-руб
+https://hh.ru/vacancy/44470761?query=web
 --------------------
-https://hh.ru | UX/UI дизайнер | 1000-3700-EUR
-https://hh.ru/vacancy/44341486?query=web
+https://hh.ru | PHP разработчик (удалённо) | 110000-170000-руб
+https://hh.ru/vacancy/44255500?query=web
 --------------------
-https://hh.ru | Веб-разработчик (программист PHP) | 150000-None-руб
-https://hh.ru/vacancy/43925089?query=web
+https://hh.ru | Web-разработчик | 70000-200000-руб
+https://hh.ru/vacancy/44237683?query=web
 --------------------
-https://hh.ru | Web-разработчик | None-None-None
-https://hh.ru/vacancy/43712439?query=web
+https://hh.ru | Web-дизайнер | 75000-None-руб
+https://hh.ru/vacancy/43810201?query=web
 --------------------
-https://hh.ru | PHP Full-stack (Laravel, Vue.js) developer | 1200-4000-EUR
-https://hh.ru/vacancy/44341470?query=web
+https://hh.ru | Тестировщик web-приложений | 120000-None-руб
+https://hh.ru/vacancy/43806692?query=web
+--------------------
+https://hh.ru | Frontend-разработчик | 30000-None-руб
+https://hh.ru/vacancy/44417083?query=web
+--------------------
+https://hh.ru | Web-дизайнер | 70000-None-руб
+https://hh.ru/vacancy/44302878?query=web
+--------------------
+https://hh.ru | Front-end разработчик / HTML верстальщик | 70000-None-руб
+https://hh.ru/vacancy/44389917?query=web
+--------------------
+https://hh.ru | Web-дизайнер | None-None-None
+https://hh.ru/vacancy/43832536?query=web
+--------------------
+https://hh.ru | Frontend-разработчик | 150000-200000-руб
+https://hh.ru/vacancy/44386906?query=web
+--------------------
+https://hh.ru | Дизайнер интерфейсов (UI UX Web Mobile) | 140000-160000-руб
+https://hh.ru/vacancy/43883205?query=web
+--------------------
+https://hh.ru | Web-разработчик (React, Python) | 800-3000-USD
+https://hh.ru/vacancy/42631058?query=web
+--------------------
+https://hh.ru | Веб разработчик Wordpress (удаленно) | 60000-None-руб
+https://hh.ru/vacancy/44166190?query=web
+--------------------
+https://hh.ru | Графический дизайнер / web-дизайнер (стажер) | None-None-None
+https://hh.ru/vacancy/44442123?query=web
+--------------------
+https://hh.ru | Web-дизайнер | None-None-None
+https://hh.ru/vacancy/44274062?query=web
+--------------------
+https://hh.ru | Веб-дизайнер UX-UI | 130000-None-руб
+https://hh.ru/vacancy/44005989?query=web
+--------------------
+https://www.superjob.ru | Web-программист,  | 30000-None-руб
+https://www.superjob.ru/vakansii/web-programmist-33921626.html
+--------------------
+https://www.superjob.ru | Web-дизайнер | 45-55-руб
+https://www.superjob.ru/vakansii/web-dizajner-36787719.html
 --------------------
 https://www.superjob.ru | Web-разработчик (Bitrix) | None-None-None
 https://www.superjob.ru/vakansii/web-razrabotchik-36856577.html
+--------------------
+https://www.superjob.ru | web-разработчик | 160000-None-руб
+https://www.superjob.ru/vakansii/middle-web-razrabotchik-34020557.html
+--------------------
+https://www.superjob.ru | Web-разработчик 1С-Битрикс | None-120000-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-1s-bitriks-36786123.html
+--------------------
+https://www.superjob.ru | Web-разработчик | 100000-None-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-36993011.html
+--------------------
+https://www.superjob.ru | Web-мастер / Администратор сайта | 30000-None-руб
+https://www.superjob.ru/vakansii/web-master-36913395.html
 --------------------
 https://www.superjob.ru | Web-дизайнер | None-None-None
 https://www.superjob.ru/vakansii/web-dizajner-36946822.html
@@ -133,20 +151,29 @@ https://www.superjob.ru/vakansii/web-razrabotchik-36866372.html
 https://www.superjob.ru | Web-программист (middle) | 150000-None-руб
 https://www.superjob.ru/vakansii/web-programmist-36046955.html
 --------------------
+https://www.superjob.ru | Web-разработчик | None-180000-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-36912205.html
+--------------------
+https://www.superjob.ru | Web-аналитик | 150000-None-руб
+https://www.superjob.ru/vakansii/web-analitik-36842585.html
+--------------------
 https://www.superjob.ru | web, интернет-маркетинг, IT) / Digital маркетолог | None-None-None
 https://www.superjob.ru/vakansii/rukovoditel-internet-proektov-36884684.html
+--------------------
+https://www.superjob.ru | Web-разработчик | 50000-None-руб
+https://www.superjob.ru/vakansii/nachinayuschij-web-razrabotchik-36985263.html
 --------------------
 https://www.superjob.ru | Web-разработчик Junior | 60000-None-руб
 https://www.superjob.ru/vakansii/web-razrabotchik-junior-36819692.html
 --------------------
-https://www.superjob.ru | Web-программист,  | 35000-40000-руб
+https://www.superjob.ru | Web-программист,  | 35-40-руб
 https://www.superjob.ru/vakansii/web-programmist-36946403.html
 --------------------
-https://www.superjob.ru | Web-разработчик, PHP-программист | 145000-180000-руб
+https://www.superjob.ru | Web-разработчик, PHP-программист | 145-180-руб
 https://www.superjob.ru/vakansii/web-razrabotchik-36901327.html
 --------------------
-https://www.superjob.ru | Web-мастер /  | 70000-87000-руб
-https://www.superjob.ru/vakansii/web-master-36898651.html
+https://www.superjob.ru | Web-мастер /  | 70-87-руб
+https://www.superjob.ru/vakansii/frontend-backend-razrabotchik-36898651.html
 --------------------
 https://www.superjob.ru | Web-дизайнер, UI / UX дизайнер | None-None-None
 https://www.superjob.ru/vakansii/web-dizajner-29457381.html
@@ -154,35 +181,26 @@ https://www.superjob.ru/vakansii/web-dizajner-29457381.html
 https://www.superjob.ru | Web-аналитик | None-None-None
 https://www.superjob.ru/vakansii/web-analitik-36735550.html
 --------------------
-https://www.superjob.ru | Web-дизайнер | None-None-None
-https://www.superjob.ru/vakansii/web-dizajner-35878185.html
+https://www.superjob.ru | Web-программист,  | 30000-None-руб
+https://www.superjob.ru/vakansii/web-programmist-33921626.html
 --------------------
-https://www.superjob.ru | Web-программист | None-None-None
-https://www.superjob.ru/vakansii/web-programmist-36935513.html
---------------------
-https://www.superjob.ru | Веб-программист РНР ( | 149500-None-руб
-https://www.superjob.ru/vakansii/veb-programmist-rnr-36378493.html
---------------------
-https://www.superjob.ru | Web-developer /  | 100000-None-руб
-https://www.superjob.ru/vakansii/web-developer-36888384.html
---------------------
-https://www.superjob.ru | Web-дизайнер | None-None-None
-https://www.superjob.ru/vakansii/web-dizajner-36802219.html
---------------------
-https://www.superjob.ru | Web-разработчик | 130000-None-руб
-https://www.superjob.ru/vakansii/web-razrabotchik-35121873.html
---------------------
-https://www.superjob.ru | Web-программист 1С-Битрикс | None-110000-руб
-https://www.superjob.ru/vakansii/web-programmist-1s-bitriks-36923762.html
---------------------
-https://www.superjob.ru | Веб-программист,  | None-80000-руб
-https://www.superjob.ru/vakansii/veb-programmist-36922543.html
---------------------
-https://www.superjob.ru | Web-дизайнер | 45000-55000-руб
+https://www.superjob.ru | Web-дизайнер | 45-55-руб
 https://www.superjob.ru/vakansii/web-dizajner-36787719.html
 --------------------
 https://www.superjob.ru | Web-разработчик (Bitrix) | None-None-None
 https://www.superjob.ru/vakansii/web-razrabotchik-36856577.html
+--------------------
+https://www.superjob.ru | web-разработчик | 160000-None-руб
+https://www.superjob.ru/vakansii/middle-web-razrabotchik-34020557.html
+--------------------
+https://www.superjob.ru | Web-разработчик 1С-Битрикс | None-120000-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-1s-bitriks-36786123.html
+--------------------
+https://www.superjob.ru | Web-разработчик | 100000-None-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-36993011.html
+--------------------
+https://www.superjob.ru | Web-мастер / Администратор сайта | 30000-None-руб
+https://www.superjob.ru/vakansii/web-master-36913395.html
 --------------------
 https://www.superjob.ru | Web-дизайнер | None-None-None
 https://www.superjob.ru/vakansii/web-dizajner-36946822.html
@@ -193,51 +211,33 @@ https://www.superjob.ru/vakansii/web-razrabotchik-36866372.html
 https://www.superjob.ru | Web-программист (middle) | 150000-None-руб
 https://www.superjob.ru/vakansii/web-programmist-36046955.html
 --------------------
+https://www.superjob.ru | Web-разработчик | None-180000-руб
+https://www.superjob.ru/vakansii/web-razrabotchik-36912205.html
+--------------------
+https://www.superjob.ru | Web-аналитик | 150000-None-руб
+https://www.superjob.ru/vakansii/web-analitik-36842585.html
+--------------------
 https://www.superjob.ru | web, интернет-маркетинг, IT) / Digital маркетолог | None-None-None
 https://www.superjob.ru/vakansii/rukovoditel-internet-proektov-36884684.html
+--------------------
+https://www.superjob.ru | Web-разработчик | 50000-None-руб
+https://www.superjob.ru/vakansii/nachinayuschij-web-razrabotchik-36985263.html
 --------------------
 https://www.superjob.ru | Web-разработчик Junior | 60000-None-руб
 https://www.superjob.ru/vakansii/web-razrabotchik-junior-36819692.html
 --------------------
-https://www.superjob.ru | Web-программист,  | 35000-40000-руб
+https://www.superjob.ru | Web-программист,  | 35-40-руб
 https://www.superjob.ru/vakansii/web-programmist-36946403.html
 --------------------
-https://www.superjob.ru | Web-разработчик, PHP-программист | 145000-180000-руб
+https://www.superjob.ru | Web-разработчик, PHP-программист | 145-180-руб
 https://www.superjob.ru/vakansii/web-razrabotchik-36901327.html
 --------------------
-https://www.superjob.ru | Web-мастер /  | 70000-87000-руб
-https://www.superjob.ru/vakansii/web-master-36898651.html
+https://www.superjob.ru | Web-мастер /  | 70-87-руб
+https://www.superjob.ru/vakansii/frontend-backend-razrabotchik-36898651.html
 --------------------
 https://www.superjob.ru | Web-дизайнер, UI / UX дизайнер | None-None-None
 https://www.superjob.ru/vakansii/web-dizajner-29457381.html
 --------------------
 https://www.superjob.ru | Web-аналитик | None-None-None
 https://www.superjob.ru/vakansii/web-analitik-36735550.html
---------------------
-https://www.superjob.ru | Web-дизайнер | None-None-None
-https://www.superjob.ru/vakansii/web-dizajner-35878185.html
---------------------
-https://www.superjob.ru | Web-программист | None-None-None
-https://www.superjob.ru/vakansii/web-programmist-36935513.html
---------------------
-https://www.superjob.ru | Веб-программист РНР ( | 149500-None-руб
-https://www.superjob.ru/vakansii/veb-programmist-rnr-36378493.html
---------------------
-https://www.superjob.ru | Web-developer /  | 100000-None-руб
-https://www.superjob.ru/vakansii/web-developer-36888384.html
---------------------
-https://www.superjob.ru | Web-дизайнер | None-None-None
-https://www.superjob.ru/vakansii/web-dizajner-36802219.html
---------------------
-https://www.superjob.ru | Web-разработчик | 130000-None-руб
-https://www.superjob.ru/vakansii/web-razrabotchik-35121873.html
---------------------
-https://www.superjob.ru | Web-программист 1С-Битрикс | None-110000-руб
-https://www.superjob.ru/vakansii/web-programmist-1s-bitriks-36923762.html
---------------------
-https://www.superjob.ru | Веб-программист,  | None-80000-руб
-https://www.superjob.ru/vakansii/veb-programmist-36922543.html
---------------------
-https://www.superjob.ru | Web-дизайнер | 45000-55000-руб
-https://www.superjob.ru/vakansii/web-dizajner-36787719.html
 --------------------
