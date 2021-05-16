@@ -41,7 +41,7 @@ for vacancy in final_list.all_vacancy:
         'maх_salary': vacancy.maх_salary,
         'currency': vacancy.currency,
     }
-    vacancy_for_mongo_binary = json.dumps(vacancy_for_mongo, ).encode('utf-8')
+    vacancy_for_mongo_binary = json.dumps(vacancy_for_mongo).encode('utf-8')
     hash = hashlib.sha3_256(vacancy_for_mongo_binary)
     id = hash.hexdigest()
 
