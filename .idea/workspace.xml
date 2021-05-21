@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="152f7e66-f5df-421d-8ca5-d87c94badf2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/xPath/get_news.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xPath/results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/email_results.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/get_mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/get_mvideo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_sites/class_modul.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/class_modul.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_sites/filter_salary_results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/filter_salary_results.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_sites/function_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/function_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_sites/get_resume.py" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/get_resume.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/job_sites/parser_results.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BeautifulSoup/parser_results.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson_3" />
+        <entry key="$PROJECT_DIR$" value="lesson_4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,10 +53,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Selenium" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_news">
+  <component name="RunManager" selected="Python.get_mvideo">
     <configuration name="authorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data-collection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_modul" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="data-collection" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,12 +88,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job_sites" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job_sites/class_modul.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/get_mail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_mvideo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data-collection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/get_mvideo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,28 +168,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="data-collection" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/job_sites" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/job_sites/get_salary.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="data-collection" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_mvideo" />
+        <item itemvalue="Python.get_mail" />
         <item itemvalue="Python.get_news" />
         <item itemvalue="Python.get_resume" />
         <item itemvalue="Python.authorization" />
-        <item itemvalue="Python.class_modul" />
-        <item itemvalue="Python.get_salary" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +218,12 @@
       <workItem from="1620751894389" duration="1529000" />
       <workItem from="1620798673215" duration="4077000" />
       <workItem from="1620839943440" duration="6580000" />
-      <workItem from="1621149443851" duration="10880000" />
+      <workItem from="1621149443851" duration="11318000" />
+      <workItem from="1621489349514" duration="3962000" />
+      <workItem from="1621515000928" duration="4379000" />
+      <workItem from="1621520507142" duration="5918000" />
+      <workItem from="1621577608637" duration="2228000" />
+      <workItem from="1621580838030" duration="6028000" />
     </task>
     <task id="LOCAL-00001" summary="hw 1 done">
       <created>1620308794171</created>
@@ -271,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620846864012</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hw4 done">
+      <created>1621173237972</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621173237972</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,7 +303,8 @@
     <MESSAGE value="hw 1 done" />
     <MESSAGE value="hw 2 done" />
     <MESSAGE value="hw 3 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw 3 done" />
+    <MESSAGE value="hw4 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -307,11 +318,13 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data_collection$get_mvideo.coverage" NAME="get_mvideo Coverage Results" MODIFIED="1621588135765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
     <SUITE FILE_PATH="coverage/data_collection$get_salary.coverage" NAME="get_salary Coverage Results" MODIFIED="1620556583835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_sites" />
     <SUITE FILE_PATH="coverage/data_collection$get_group.coverage" NAME="get_group Coverage Results" MODIFIED="1620308713513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vk" />
     <SUITE FILE_PATH="coverage/data_collection$class_modul.coverage" NAME="class_modul Coverage Results" MODIFIED="1620572458098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_sites" />
-    <SUITE FILE_PATH="coverage/data_collection$get_news.coverage" NAME="get_news Coverage Results" MODIFIED="1621172777042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xPath" />
+    <SUITE FILE_PATH="coverage/data_collection$get_news.coverage" NAME="get_news Coverage Results" MODIFIED="1621173187285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xPath" />
     <SUITE FILE_PATH="coverage/data_collection$get_resume.coverage" NAME="get_resume Coverage Results" MODIFIED="1620846732494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/job_sites" />
+    <SUITE FILE_PATH="coverage/data_collection$get_mail.coverage" NAME="get_mail Coverage Results" MODIFIED="1621526633951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
     <SUITE FILE_PATH="coverage/data_collection$get_repo.coverage" NAME="get_repo Coverage Results" MODIFIED="1620299244594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/github" />
     <SUITE FILE_PATH="coverage/data_collection$authorization.coverage" NAME="authorization Coverage Results" MODIFIED="1620594902752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
