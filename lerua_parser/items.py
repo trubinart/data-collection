@@ -4,7 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 import scrapy
-from itemloaders.processors import MapCompose, TakeFirst
+from itemloaders.processors import MapCompose
 
 
 def prepare_data(value):
@@ -21,6 +21,21 @@ def prepare_foto(value):
         return value
 
 
+def prepare_specifications(value):
+    specifications_list = value.xpath('..//div')
+
+    result_specifications = {}
+
+    for item in specifications_list:
+        specifications_name = item.xpath('.//dt/text()').extract()[0]
+        specifications_value = item.xpath('.//dd/text()').extract()[0] \
+            .replace('\n', '').strip()
+
+        result_specifications[specifications_name] = specifications_value
+
+    return result_specifications
+
+
 class LeruaParserItem(scrapy.Item):
     name = scrapy.Field()
     url = scrapy.Field()
@@ -28,3 +43,5 @@ class LeruaParserItem(scrapy.Item):
     article = scrapy.Field()
     text = scrapy.Field()
     photo = scrapy.Field(input_processor=MapCompose(prepare_foto))
+    specifications = scrapy.Field(input_processor=MapCompose(prepare_specifications))
+    _id = scrapy.Field()
