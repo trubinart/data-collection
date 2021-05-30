@@ -14,3 +14,12 @@ if __name__ == '__main__':
 
     process.crawl(LeruaSpider, searchInput=searchInput)
     process.start()
+
+    # client = MongoClient('localhost', 27017)
+    # db = client['lerua']
+    #
+    # collection = db.lerua
+    #
+    # with open('results.txt', 'w') as file:
+    #     for doc in collection.find({}):
+    #         file.write(f'{str(doc)} \n')

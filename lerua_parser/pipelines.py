@@ -8,10 +8,34 @@
 from itemadapter import ItemAdapter
 from scrapy.pipelines.images import ImagesPipeline
 import scrapy
+from pymongo import MongoClient
+import hashlib
+import json
 
 
 class LeruaParserPipeline:
+    def __init__(self):
+        client = MongoClient('localhost', 27017)
+        self.db = client['lerua']
+
     def process_item(self, item, spider):
+        collection_name = 'lerua'
+        try:
+            collection = self.db.create_collection(f'{collection_name}')
+        except:
+            collection = self.db[collection_name]
+
+        item_for_mongo_binary = json.dumps(dict(item)).encode('utf-8')
+        hash = hashlib.sha3_256(item_for_mongo_binary)
+        id = hash.hexdigest()
+        item['_id'] = id
+
+        try:
+            collection.insert_one(item)
+
+        except Exception:
+            pass
+
         return item
 
 
