@@ -27,9 +27,12 @@ class HhruSpider(scrapy.Spider):
         for item in vacancy_link:
             yield responce.follow(item, callback=self.get_resume)
 
-        # next_page = 'http://hh.ru/' + dom.find('a', text='дальше')['href']
-        # if next_page != None:
-        #     yield responce.follow(next_page, callback=self.parse)
+        domain = 'http://hh.ru/'
+        next_link = dom.find('a', text='дальше')['href']
+
+        if next_link != None:
+            next_page = domain + next_link
+            yield responce.follow(next_page, callback=self.parse)
 
     def get_resume(self, responce):
         dom = bs(responce.text, 'html.parser')

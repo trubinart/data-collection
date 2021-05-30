@@ -24,10 +24,12 @@ class SuperjobSpider(scrapy.Spider):
         for item in vacancy_link:
             yield responce.follow(item, callback=self.get_resume)
 
-        # next_page = 'https://www.superjob.ru/' + dom.find('a', text='Дальше')['href']
-        # if next_page != None:
-        #     print(next_page)
-        #     yield responce.follow(next_page, callback=self.parse)
+        domain = 'https://www.superjob.ru/'
+        next_link = dom.find('a', text='Дальше')['href']
+
+        if next_link != None:
+            next_page = domain + next_link
+            yield responce.follow(next_page, callback=self.parse)
 
     def get_resume(self, responce):
         dom = bs(responce.text, 'html.parser')
