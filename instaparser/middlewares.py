@@ -1,12 +1,43 @@
+  # -*- coding: utf-8 -*-
+
 # Define here the models for your spider middleware
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
+import time
+from scrapy.utils.response import response_status_message
 
-# useful for handling different item types with a single interface
-from itemadapter import is_item, ItemAdapter
+from scrapy.downloadermiddlewares.retry import RetryMiddleware      #Подключил дополнительно
+
+
+class TooManyRequestsRetryMiddleware(RetryMiddleware):
+
+    def __init__(self, crawler):
+        super(TooManyRequestsRetryMiddleware, self).__init__(crawler.settings)
+        self.crawler = crawler
+
+    @classmethod
+    def from_crawler(cls, crawler):
+        return cls(crawler)
+
+    def process_response(self, request, response, spider):
+        if request.meta.get('dont_retry', False):
+            return response
+        elif response.status == 429:
+            self.crawler.engine.pause()
+            spider.logger.info(f'{spider.name} - status 429 - pause')
+            time.sleep(3300)
+            self.crawler.engine.unpause()
+            reason = response_status_message(response.status)
+            return self._retry(request, reason, spider) or response
+        elif response.status in self.retry_http_codes:
+            reason = response_status_message(response.status)
+            return self._retry(request, reason, spider) or response
+        return response
+
+
 
 
 class InstaparserSpiderMiddleware:
@@ -32,7 +63,7 @@ class InstaparserSpiderMiddleware:
         # Called with the results returned from the Spider, after
         # it has processed the response.
 
-        # Must return an iterable of Request, or item objects.
+        # Must return an iterable of Request, dict or Item objects.
         for i in result:
             yield i
 
@@ -40,7 +71,8 @@ class InstaparserSpiderMiddleware:
         # Called when a spider or process_spider_input() method
         # (from other spider middleware) raises an exception.
 
-        # Should return either None or an iterable of Request or item objects.
+        # Should return either None or an iterable of Request, dict
+        # or Item objects.
         pass
 
     def process_start_requests(self, start_requests, spider):
